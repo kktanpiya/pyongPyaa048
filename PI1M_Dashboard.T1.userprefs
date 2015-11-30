@@ -1,4 +1,4 @@
-﻿<Properties StartupItem="PI1M_Dashboard.T1.Droid/PI1M_Dashboard.T1.Droid.csproj">
+﻿<Properties StartupItem="PI1M_Dashboard.T1.Droid\PI1M_Dashboard.T1.Droid.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Android_3.7" />
   <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

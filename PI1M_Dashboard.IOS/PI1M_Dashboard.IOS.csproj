@@ -202,10 +202,4 @@
       <Visible>False</Visible>
     </XamarinComponentReference>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="values\" />
-    <Folder Include="DashboardVC\" />
-    <Folder Include="ExtendedMenusVC\" />
-    <Folder Include="MyKomunitiVC\" />
-  </ItemGroup>
 </Project>

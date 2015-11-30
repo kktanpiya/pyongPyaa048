@@ -884,7 +884,7 @@
       <Project>{1F777594-4D3D-4479-A927-25D380ECE3F7}</Project>
       <Name>PI1M_Dashboard</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\CloneRepo\PI1M_Dashboard.T1\RippleEffect-master\RippleView\RippleView.csproj">
+    <ProjectReference Include="..\..\..\..\Downloads\RippleEffect-master\RippleEffect-master\RippleView\RippleView.csproj">
       <Project>{5D8338E2-BD57-469F-AC2C-4E103079C54F}</Project>
       <Name>RippleView</Name>
     </ProjectReference>
